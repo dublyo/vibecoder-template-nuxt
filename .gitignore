@@ -1,0 +1,21 @@
+# dependencies
+node_modules
+
+# nuxt
+.nuxt/
+.output/
+.data/
+
+# misc
+.DS_Store
+*.pem
+
+# env
+.env
+.env*.local
+
+# prisma
+prisma/generated/
+
+# debug
+npm-debug.log*
